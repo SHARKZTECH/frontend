@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0532aab6.css",
+    "main.js": "/static/js/main.3a8f9f17.js",
+    "static/media/ecitizen-carousel-1.png": "/static/media/ecitizen-carousel-1.ac754282e46c932d62a4.png",
+    "index.html": "/index.html",
+    "main.0532aab6.css.map": "/static/css/main.0532aab6.css.map",
+    "main.3a8f9f17.js.map": "/static/js/main.3a8f9f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0532aab6.css",
+    "static/js/main.3a8f9f17.js"
+  ]
+}
