@@ -17,6 +17,7 @@ import Instructions from './screens/Instructions';
 import Part1 from './screens/Part1';
 import Part2 from './screens/Part2';
 import Part3 from './screens/Part3';
+import Part4 from './screens/Part4';
 
 
 
@@ -47,6 +48,7 @@ function App() {
           <Route path='/part1' element={<Part1/>}/>
           <Route path='/part2' element={<Part2/>}/>
           <Route path='/part3' element={<Part3/>}/>
+          <Route path='/part4' element={<Part4/>}/>
           
           {/* ADMIN */}
           <Route path="/userlist" element={<UserListScreen/>}/>

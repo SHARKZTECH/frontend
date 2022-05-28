@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "/",
+  "homepage": "https://sharkztech.github.io/frontend/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,8 @@
     "react-bootstrap": "^2.0.4",
     "react-date-picker": "^8.4.0",
     "react-dom": "^17.0.1",
+    "react-images-upload": "^1.2.8",
+    "react-images-uploading": "^3.1.6",
     "react-paypal-button-v2": "^2.6.3",
     "react-redux": "^7.2.6",
     "react-router-bootstrap": "^0.26.0",
