@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.de097593.css",
-    "main.js": "/frontend/static/js/main.664e60c3.js",
+    "main.css": "/frontend/static/css/main.8df6ee19.css",
+    "main.js": "/frontend/static/js/main.a1d194e5.js",
     "static/media/ecitizen-carousel-1.png": "/frontend/static/media/ecitizen-carousel-1.ac754282e46c932d62a4.png",
+    "static/media/UploadIcon.svg": "/frontend/static/media/UploadIcon.469126df4127e870c21611e576b85d00.svg",
     "index.html": "/frontend/index.html",
-    "main.de097593.css.map": "/frontend/static/css/main.de097593.css.map",
-    "main.664e60c3.js.map": "/frontend/static/js/main.664e60c3.js.map"
+    "main.8df6ee19.css.map": "/frontend/static/css/main.8df6ee19.css.map",
+    "main.a1d194e5.js.map": "/frontend/static/js/main.a1d194e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.de097593.css",
-    "static/js/main.664e60c3.js"
+    "static/css/main.8df6ee19.css",
+    "static/js/main.a1d194e5.js"
   ]
 }
